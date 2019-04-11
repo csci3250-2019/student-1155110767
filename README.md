@@ -22,4 +22,7 @@ Being late | 1/2
 Response to social media | 1/4
 
 Wish you all and myself pass this course and have a good grade :)
-# student-1155110767
+
+Screenshot:
+
+![screenshot](image.jpg)
